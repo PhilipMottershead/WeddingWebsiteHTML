@@ -139,36 +139,36 @@ $pattern: url('../images/neela-pattern.png');
 /* #Sections with background image
 ================================================== */
 #our-story-title{
-    @include background-image-retina("https://via.placeholder.com/1920x1080", 'png');
+    @include background-image-retina("https://placehold.co/1920x1080", 'png');
 }
 
 #the-wedding{
-	@include background-image-retina("https://via.placeholder.com/1920x1080", 'png');
+	@include background-image-retina("https://placehold.co/1920x1080", 'png');
 }
 
 #bridesmaids,
 #bmiadsgmen{
-	@include background-image-retina("https://via.placeholder.com/1920x1080", 'png');
+	@include background-image-retina("https://placehold.co/1920x1080", 'png');
 }
 
 #groomsmen{
-	@include background-image-retina("https://via.placeholder.com/1920x1080", 'png');
+	@include background-image-retina("https://placehold.co/1920x1080", 'png');
 }
 
 #giftregistry{
-	@include background-image-retina("https://via.placeholder.com/1920x1080", 'png');
+	@include background-image-retina("https://placehold.co/1920x1080", 'png');
 }
 
 .page-header{
-	@include background-image-retina("https://via.placeholder.com/1920x1080", 'png');
+	@include background-image-retina("https://placehold.co/1920x1080", 'png');
 }
 
 #menu-image{
-	@include background-image-retina("https://via.placeholder.com/970x890", 'png');
+	@include background-image-retina("https://placehold.co/970x890", 'png');
 }
 
 #our-partners{
-	@include background-image-retina("https://via.placeholder.com/1920x1080", 'png');
+	@include background-image-retina("https://placehold.co/1920x1080", 'png');
 }
 
 /* #Typography
